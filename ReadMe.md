@@ -1,5 +1,12 @@
 # Cinke Tera
 
+## Contributeurs - juin 2023
+- [SarahHAUTOT](https://github.com/SarahHAUTOT) 
+- [Daudeuf](https://github.com/Daudeuf) 
+- [Utaa76](https://github.com/Utaa76) 
+- [TheCrafteur2015](https://github.com/TheCrafteur2015) 
+- [Maximeuuu](https://github.com/Maximeuuu) 
+
 
 ## Qu'est-ce-que c'est ?
 
@@ -26,7 +33,6 @@ Pas de panique, les îles atteignables seront surlignées de leur couleur afin d
 1. Veuillez vous positionner dans le fichier envoyé, puis avec la commande javac @compile.list @option.list, compilez les fichiers java.
 2. Ensuite, déplacez-vous dans le fichier class avec la commande cd class
 3. Lancer l'application avec la commande java cinketera.Controleur
-
 
 
 ## Tester les limites du jeu
